@@ -6,7 +6,7 @@ JScroll
 
 
 ## Attribution
-This is a spiritual "fork" of JScroll by [Jesper Landberg](https://github.com/jesperlandberg/JScroll). Here the library is reusable via npm and can be enhanced with time. For instance, I have already added a `JScroll.scrollTo` method to the utility.
+This is a spiritual "fork" of JScroll by [Jesper Landberg](https://github.com/jesperlandberg/JScroll). Here the library is reusable and is actively being enhanced. For instance, I have already added a `JScroll.scrollTo` method to the utility.
 
 
 
