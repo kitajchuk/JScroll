@@ -1,0 +1,33 @@
+{
+  "title": "JScroll",
+  "name": "properjs-jscroll",
+  "description": "A smooth scroll JS library.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ProperJS/JScroll",
+  "readmeFilename": "README.md",
+  "author": "Jesper Landberg",
+  "contributors": [
+    {
+      "name": "Brandon Kitajchuk",
+      "email": "bk@kitajchuk.com",
+      "url": "https://kitajchuk.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ProperJS/JScroll.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProperJS/JScroll/issues"
+  },
+  "license": "MIT",
+  "main": "build/index.js",
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "virtual-scroll": "^1.5.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.22.12"
+  }
+}
